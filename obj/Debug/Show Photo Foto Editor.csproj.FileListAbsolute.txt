@@ -1,0 +1,29 @@
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\bin\Debug\SHOW PHOTO FOTO EDITOR.exe.config
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\bin\Debug\SHOW PHOTO FOTO EDITOR.exe
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\bin\Debug\SHOW PHOTO FOTO EDITOR.pdb
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\obj\Debug\SHOW PHOTO FOTO EDITOR.csprojAssemblyReference.cache
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Frm_Principal.resources
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Properties.Resources.resources
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\obj\Debug\SHOW PHOTO FOTO EDITOR.csproj.GenerateResource.cache
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\obj\Debug\SHOW PHOTO FOTO EDITOR.exe
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\obj\Debug\SHOW PHOTO FOTO EDITOR.pdb
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Frm_Novo_Projeto.resources
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Ferramentas.resources
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Frm_MSG.resources
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Frm_Inicio.resources
+C:\Users\Edvan\source\repos\SHOW PHOTO FOTO EDITOR\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.FRM_Filtros.resources
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\bin\Debug\SHOW PHOTO FOTO EDITOR.exe.config
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\bin\Debug\SHOW PHOTO FOTO EDITOR.exe
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\bin\Debug\SHOW PHOTO FOTO EDITOR.pdb
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW PHOTO FOTO EDITOR.csproj.AssemblyReference.cache
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Ferramentas.resources
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Frm_Principal.resources
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.FRM_Filtros.resources
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Frm_Inicio.resources
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Frm_MSG.resources
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Frm_Novo_Projeto.resources
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW_PHOTO_FOTO_EDITOR.Properties.Resources.resources
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW PHOTO FOTO EDITOR.csproj.GenerateResource.cache
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW PHOTO FOTO EDITOR.csproj.CoreCompileInputs.cache
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW PHOTO FOTO EDITOR.exe
+C:\Users\edvan\OneDrive\Documentos\SPFE 2\Show Photo Foto Editor\obj\Debug\SHOW PHOTO FOTO EDITOR.pdb
